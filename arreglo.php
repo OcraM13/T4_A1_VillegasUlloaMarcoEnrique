@@ -22,12 +22,16 @@
         <?php
 
             $alumnos = array(
-            "Edgar"=> $calificaciones=array(70, 70, 70, 70, 70),
-            "David"=> $calificaciones=array(85, 90, 80, 70, 90),
-            "Deysi"=> $calificaciones=array(80, 75, 70, 65, 80),
+            "Daniel"=> $calificaciones=array(70, 70, 70, 70, 70),
+            "Ivan"=> $calificaciones=array(85, 90, 80, 70, 90),
+            "Vivi"=> $calificaciones=array(80, 75, 70, 65, 80),
             "Marco"=> $calificaciones=array(80, 60, 40, 69, 90),
-            "Lorena"=> $calificaciones=array(90, 100, 70, 80, 95),
-            "Luis Gerardo"=> $calificaciones=array(70, 80, 60, 60, 80,));
+            "Disy"=> $calificaciones=array(90, 100, 70, 80, 95),
+            "Migel"=> $calificaciones=array(90, 100, 70, 80, 95),
+            "Felix"=> $calificaciones=array(90, 100, 70, 80, 95),
+            "Jorge"=> $calificaciones=array(90, 100, 70, 80, 95),
+            "Liza"=> $calificaciones=array(90, 100, 70, 80, 95),
+            "Alvar"=> $calificaciones=array(70, 80, 60, 60, 80,));
 
             $aregloPromedio = obtenerPromedioAlumnos($alumnos);
 
