@@ -27,10 +27,10 @@
             "Vivi"=> $calificaciones=array(80, 75, 70, 65, 80),
             "Marco"=> $calificaciones=array(80, 60, 40, 69, 90),
             "Disy"=> $calificaciones=array(90, 100, 70, 80, 95),
-            "Migel"=> $calificaciones=array(90, 100, 70, 80, 95),
-            "Felix"=> $calificaciones=array(90, 100, 70, 80, 95),
-            "Jorge"=> $calificaciones=array(90, 100, 70, 80, 95),
-            "Liza"=> $calificaciones=array(90, 100, 70, 80, 95),
+            "Migel"=> $calificaciones=array(60, 80, 90, 90, 95),
+            "Felix"=> $calificaciones=array(40, 80, 70, 70, 95),
+            "Jorge"=> $calificaciones=array(80, 60, 50, 90, 95),
+            "Liza"=> $calificaciones=array(70, 90, 70, 80, 95),
             "Alvar"=> $calificaciones=array(70, 80, 60, 60, 80,));
 
             $aregloPromedio = obtenerPromedioAlumnos($alumnos);
